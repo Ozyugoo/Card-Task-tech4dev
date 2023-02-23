@@ -1,2 +1,4 @@
-# Card-Task-tech4dev
-Building a QR code task
+Answer
+1. A,
+2. D,
+3. A
